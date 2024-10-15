@@ -1,0 +1,90 @@
+{
+  "Therapy": [
+    "OT/COTA",
+    "PT",
+    "PTA",
+    "SLP"
+  ],
+
+  "Lab": [
+    "Lab Assistant",
+    "MT/MLT",
+    "Pathologist Assistant",
+    "Phlebotomy General"
+  ],
+
+  "Long Term Care": [
+    "CNA",
+    "Director of Nursing",
+    "LPN",
+    "LTC RN",
+    "MDS Coordinator",
+    "Medical Assistant",
+    "Medication Aid"
+  ],
+
+  "Nursing": [
+    "Ambulatory RN",
+    "Behavioral Health RN",
+    "Case Management",
+    "Certified Surgical First Assistant",
+    "CVOR RN",
+    "Dialysis RN",
+    "Endoscopy RN",
+    "Endoscopy Tech",
+    "ER RN",
+    "House Supervisor",
+    "Infection Prevention RN",
+    "Intensive Care RN",
+    "Infusion RN",
+    "LTAC RN",
+    "Medical Surgical/ Telemetry",
+    "Neonatal Intensive Care",
+    "Nurse Manager",
+    "OB Tech",
+    "Oncology",
+    "OR RN",
+    "PACU",
+    "Pediatric Emergency Room",
+    "Pediatric Intensive Care",
+    "Pediatric RN",
+    "Sterile Processing Technologist",
+    "Surgical Tech",
+    "Tele, PCU, Stepdown RN",
+    "Transplant Coordinator RN"
+  ],
+  "Home Health": [
+    "Home Health RN",
+    "Hospice RN",
+    "Home Health LPN",
+    "Hospice LPN"
+  ],
+  "Cath Lab": [
+    "Cath Lab RN",
+    "Cath Lab Tech",
+    "EP RN",
+    "EP Tech",
+    "Interventional Radiology"
+  ],
+  "Cardiopulmonary": [
+    "EEG Technician",
+    "EKG Technician",
+    "Perfusionist",
+    "Polysomnographer/Sleep Tech",
+    "RRT/CRT",
+    "Dietitian"
+  ],
+  "Radiology": [
+    "CT",
+    "Diagnostic Radiology RN",
+    "Dosimetrist",
+    "Echo Technologist",
+    "Mammography Technologist",
+    "MRI",
+    "Nuclear Medicine Technologist",
+    "Medical Physicist",
+    "Radiation Therapist",
+    "Ultrasound",
+    "X-Ray Tech"
+  ]
+}

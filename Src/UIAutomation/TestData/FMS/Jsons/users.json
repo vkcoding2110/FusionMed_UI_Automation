@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "email": "testmicheal104@yopmail.com",
+      "name": "TestMicheal TestWindson",
+      "password": "#Micheal@104",
+      "type": "CertificationTest"
+    },
+    {
+      "FirstName": "TestMiles",
+      "LastName": "TestFiner",
+      "DateOfBirth": "7/17/1996",
+      "MailingAddress": "1300 W. Benson Blvd., Suite 900 Anchorage, AK 99503",
+      "City": "Akiak",
+      "ZipCode": "99552",
+      "Email": "milesfiner27@yopmail.com",
+      "Password": "Miles@1234",
+      "PhoneNumber": "9876543210",
+      "Category": "Radiology",
+      "PrimarySpeciality": "MRI Tech",
+      "License": {
+        "State": "Alaska",
+        "StateAlias": "AK"
+      },
+      "type": "QuickApplicationFormTest"
+    },
+    {
+      "email": "testjohn103@yopmail.com",
+      "password": "#John@103",
+      "name": "TestJohn TestSmith",
+      "type": "ForgotPasswordTests"
+    },
+    {
+      "email": "testrosy102@yopmail.com",
+      "password": "#Rosy@102",
+      "name": "TestRosy TestTaylor",
+      "type": "LoginTests"
+    },
+    {
+      "email": "testmartin101@yopmail.com",
+      "password": "#Martin@101",
+      "category": "Lab",
+      "PrimarySpeciality": "Lab Assistant",
+      "type": "RequestStaffTests"
+    }
+  ]
+}

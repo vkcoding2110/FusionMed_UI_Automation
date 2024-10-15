@@ -1,0 +1,411 @@
+﻿{
+	"users": [
+		{
+			"email": "test293@yopmail.com",
+			"password": "TestTesting@29",
+			"name": "Test Testing",
+			"type": "ForgotPasswordTests"
+		},
+		{
+			"FirstName": "Test",
+			"LastName": "Testing",
+			"DateOfBirth": "3/31/1998",
+			"MailingAddress": "1300 W. Benson Blvd., Suite 900 Anchorage, AK 99503",
+			"City": "Delaware",
+			"ZipCode": "53342",
+			"Email": "testingtest2421@yopmail.com",
+			"Password": "Test_User24@",
+			"PhoneNumber": "6787678767",
+			"Category": "Home Health",
+			"PrimarySpecialty": "Home Health Clinical Manager",
+			"License": {
+				"State": "Georgia",
+				"StateAlias": "DE"
+			},
+			"type": "QuickApplicationFormTest"
+		},
+		{
+			"email": "test104@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Test@104",
+			"type": "LoginTests"
+		},
+		{
+			"email": "test0408@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Test@o4o8",
+			"type": "CertificationTest",
+			"platform": "Web"
+		},
+		{
+			"email": "test0409@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Test@o4o9",
+			"type": "CertificationTest",
+			"platform": "Android"
+		},
+		{
+			"email": "test0400@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Test@o4o0",
+			"type": "CertificationTest",
+			"platform": "Ios"
+		},
+		{
+			"email": "test1998@yopmail.com",
+			"name": "Test Testing",
+			"password": "Monday@1998",
+			"type": "CertificationTest",
+			"platform": "AndroidApp"
+		},
+		{
+			"email": "test1211@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Test@1211",
+			"type": "EducationTest",
+			"platform": "Web"
+		},
+		{
+			"email": "test1222@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Test@1222",
+			"type": "EducationTest",
+			"platform": "Android"
+		},
+		{
+			"email": "test1223@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Test@1223",
+			"type": "EducationTest",
+			"platform": "Ios"
+		},
+		{
+			"email": "testtesting22@yopmail.com",
+			"name": "Test Testing",
+			"password": "Testing@22#",
+			"type": "MyDocumentsTest"
+		},
+		{
+			"email": "testtesting0019@yopmail.com",
+			"name": "Test Testing",
+			"password": "*Taste0019",
+			"type": "ReferenceTest",
+			"platform": "Web"
+		},
+		{
+			"email": "testingtest0901@yopmail.com",
+			"name": "Test Testing",
+			"password": "8xR^RXL~#LG9",
+			"type": "ReferenceTest",
+			"platform": "Android"
+		},
+		{
+			"email": "testtesing010921@yopmail.com",
+			"name": "Test Testing",
+			"password": "Wednesday@0109",
+			"type": "ReferenceTest",
+			"platform": "Ios"
+		},
+		{
+			"email": "testtesting0309@yopmail.com",
+			"name": "Test Testing",
+			"password": "Friday@0309",
+			"type": "TimeBetweenJobsTests",
+			"platform": "Web"
+		},
+		{
+			"email": "testtesting0607021@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Testing@0607021",
+			"type": "TimeBetweenJobsTests2",
+			"platform": "Web"
+		},
+		{
+			"email": "testingtest1995@yopmail.com",
+			"name": "Test Testing",
+			"password": "{Thursday95}",
+			"type": "TimeBetweenJobsTests2",
+			"platform": "Android"
+		},
+		{
+			"email": "testingtest1996@yopmail.com",
+			"name": "Test Testing",
+			"password": "{Thursday96}",
+			"type": "TimeBetweenJobsTests2",
+			"platform": "Ios"
+		},
+		{
+			"email": "testtesting0409@yopmail.com",
+			"name": "Test Testing",
+			"password": "Friday@0309",
+			"type": "TimeBetweenJobsTests",
+			"platform": "Android"
+		},
+		{
+			"email": "testtesting0509@yopmail.com",
+			"name": "Test Testing",
+			"password": "Friday@0309",
+			"type": "TimeBetweenJobsTests",
+			"platform": "Ios"
+		},
+		{
+			"email": "test2712@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Test@27",
+			"type": "EmploymentTests",
+			"platform": "Web"
+		},
+		{
+			"email": "test272@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Test@27",
+			"type": "EmploymentTests",
+			"platform": "Android"
+		},
+		{
+			"email": "test271@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Test@27",
+			"type": "EmploymentTests",
+			"platform": "Ios"
+		},
+		{
+			"email": "testtesting2605@yopmail.com",
+			"name": "test testing",
+			"password": "Preference@2605",
+			"type": "PreferenceTests",
+			"platform": "Android"
+		},
+		{
+			"email": "testtesting2605@yopmail.com",
+			"name": "test testing",
+			"password": "Preference@2605",
+			"type": "PreferenceTests",
+			"platform": "Ios"
+		},
+		{
+			"email": "testtesting2605@yopmail.com",
+			"name": "test testing",
+			"password": "Preference@2605",
+			"type": "PreferenceTests",
+			"platform": "Web"
+		},
+		{
+			"email": "testtesting0306@yopmail.com",
+			"name": "Test Testing",
+			"password": "Preference#0306",
+			"type": "EditPreferenceTests",
+			"platform": "Web"
+		},
+		{
+			"email": "testtesting0306@yopmail.com",
+			"name": "Test Testing",
+			"password": "Preference#0306",
+			"type": "EditPreferenceTests",
+			"platform": "Android"
+		},
+		{
+			"email": "testtesting0306@yopmail.com",
+			"name": "Test Testing",
+			"password": "Preference#0306",
+			"type": "EditPreferenceTests",
+			"platform": "Ios"
+		},
+		{
+			"email": "testtesting1119@yopmail.com",
+			"name": "test testing",
+			"password": "Sharedprofile@1112",
+			"type": "ManageMyProfileSharingTests",
+			"platform": "web"
+		},
+		{
+			"email": "testtesting1992@yopmail.com",
+			"name": "test testing",
+			"password": "Sharedprofile@1992",
+			"type": "ManageMyProfileSharingTests",
+			"platform": "Android"
+		},
+		{
+			"email": "testtestingq1993@yopmail.com",
+			"name": "test testing",
+			"password": "Sharedprofile@1993",
+			"type": "ManageMyProfileSharingTests",
+			"platform": "Ios"
+		},
+		{
+			"email": "testtesting1201@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Test@1201",
+			"type": "JobApplicationsTest",
+			"platform": "Web"
+		},
+		{
+			"email": "testtesting1202@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Test@1202",
+			"type": "JobApplicationsTest",
+			"platform": "Android"
+		},
+		{
+			"email": "testtesting1203@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Test@1203",
+			"type": "JobApplicationsTest",
+			"platform": "Ios"
+		},
+		{
+			"email": "testtesting1234@yopmail.com",
+			"name": "Test Testing",
+			"password": "Tuesday@277",
+			"type": "JobPreferenceTests",
+			"platform": "Web"
+		},
+		{
+			"email": "testtesting1235@yopmail.com",
+			"name": "Test Testing",
+			"password": "Tuesday@277",
+			"type": "JobPreferenceTests",
+			"platform": "Android"
+		},
+		{
+			"email": "testtesting1236@yopmail.com",
+			"name": "Test Testing",
+			"password": "Tuesday@277",
+			"type": "JobPreferenceTests",
+			"platform": "Ios"
+		},
+		{
+			"email": "test.automation2210@yopmail.com",
+			"name": "Automation Recruiter2Star",
+			"password": "Friday@2210",
+			"type": "AutomationRecruiter2Star",
+			"platform": "Web"
+		},
+		{
+			"email": "testautomation0309@yopmail.com",
+			"name": "Automation RecruiterNoReviews",
+			"password": "Monday@0309",
+			"type": "AutomationRecruiterNoReviews",
+			"platform": "Web"
+		},
+		{
+			"email": "testautomation030@yopmail.com",
+			"name": "Automation RecruiterFiveReviews",
+			"password": "Monday@0309",
+			"type": "AutomationRecruiterFiveReviews",
+			"platform": "Web"
+		},
+		{
+			"email": "testtesting030921@yopmail.com",
+			"name": "Test Testing",
+			"password": "Friday@030921",
+			"type": "RateAndReviewTests",
+			"platform": "Web"
+		},
+		{
+			"email": "testtesting0709@yopmail.com",
+			"name": "Test Testing",
+			"password": "Tuesday@0709",
+			"type": "RateAndReviewTests",
+			"platform": "Android"
+		},
+		{
+			"email": "testtesting070921@yopmail.com",
+			"name": "Test Testing",
+			"password": "Tuesday@0709",
+			"type": "RateAndReviewTests",
+			"platform": "Ios"
+		},
+		{
+			"email": "qa-testingagency3@yopmail.com",
+			"name": "Test Agency",
+			"password": "QAUsers2021!",
+			"type": "AgencyAdminTests"
+		},
+		{
+			"email": "testingRecruiterUser12@yopmail.com",
+			"name": "Automation RecruiterUser",
+			"password": "Tuesday@1211",
+			"type": "RecruiterReviewTests"
+		},
+		{
+			"email": "qa-testingadmin@fusionmedstaff.com",
+			"name": "Test Agency",
+			"password": "HereWeGo21!",
+			"type": "SystemAdminTests"
+		},
+		{
+			"email": "testrecruiterrespond23@yopmail.com",
+			"name": "Automation RecruiterRespond",
+			"password": "Tuesday@0309",
+			"type": "RecruiterForResponseCRUD"
+		},
+		{
+			"email": "test.automation2010@yopmail.com",
+			"name": "Automation SystemAdminRejectReview",
+			"password": "Wednesday@2010",
+			"type": "AutomationSystemAdminRejectReview"
+		},
+		{
+			"email": "testtesting1711@yopmail.com",
+			"name": "test testing",
+			"password": "Preference@2605",
+			"type": "PreferenceAppTests",
+			"platform": "AndroidApp"
+		},
+		{
+			"email": "testtesting0408@yopmail.com",
+			"name": "Test Testing",
+			"password": "Preference#0408",
+			"type": "EditPreferenceTests",
+			"platform": "AndroidApp"
+		},
+		{
+			"email": "testtesting2810@yopmail.com",
+			"name": "Test Testing",
+			"password": "ShareMyProfile#2810",
+			"type": "ManageMyProfileSharingTests",
+			"platform": "AndroidApp"
+		},
+		{
+			"email": "testtesting0111@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Monday@0111",
+			"type": "JobsRelatedToMeTest",
+			"platform": "Web"
+		},
+		{
+			"email": "testtesting0211@yopmail.com",
+			"name": "Test User",
+			"password": "Tuesday@0211",
+			"type": "RecruiterProfileSharingTests"
+		},
+		{
+			"email": "testtesting1912@yopmail.com",
+			"name": "test testing",
+			"password": "License@1912",
+			"type": "LicenseTest",
+			"platform": "AndroidApp"
+		},
+		{
+			"email": "RecruitersEditAboutMe23@yopmail.com",
+			"name": "Automation RecruitersEditAboutMe",
+			"password": "Tuesday@0309",
+			"type": "RecruitersEditAboutMe"
+		},
+    {
+      "email": "testtesting111213@yopmail.com",
+      "name": "Test Testing",
+      "password": "#Monday@0111",
+      "type": "JobsRelatedToMeTest",
+      "platform": "Android"
+    },
+		{
+			"email": "testtesting171213@yopmail.com",
+			"name": "Test Testing",
+			"password": "#Monday@0111",
+			"type": "JobsRelatedToMeTest",
+			"platform": "Ios"
+    }
+  ]
+}

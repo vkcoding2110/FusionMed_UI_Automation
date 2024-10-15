@@ -1,0 +1,153 @@
+{
+  "Jobs": [
+    "View All Jobs",
+    "Cardiopulmonary",
+    "Cath Lab",
+    "Home Health",
+    "Laboratory",
+    "Long Term Care",
+    "Radiology",
+    "RN",
+    "Therapy"
+  ],
+  "Cardiopulmonary": [
+    "View All Cardiopulmonary",
+    "Anesthesia Technician",
+    "Certified Respiratory Therapist - CRT",
+    "Dietitian",
+    "EEG Technician",
+    "EKG Technician",
+    "Perfusionist",
+    "Polysomnographer/Sleep Tech",
+    "Registered Respiratory Therapist - RRT"
+  ],
+  "Cath Lab": [
+    "View All Cath Lab",
+    "Cath Lab Manager",
+    "Cath Lab Tech",
+    "EP RN",
+    "EP Tech",
+    "IR RN",
+    "IR Tech"
+  ],
+  "Home Health": [
+    "View All Home Health",
+    "Home Health Clinical Manager",
+    "Home Health LPN",
+    "Home Health RN",
+    "Home Infusion RN",
+    "Hospice LPN",
+    "Hospice RN"
+  ],
+  "Laboratory": [
+    "View All Laboratory",
+    "Cath Lab Pre/Post RN",
+    "CLS Blood Bank",
+    "Cytotechnologist",
+    "HT/HTL General",
+    "Lab Assistant",
+    "Lab Director/Manager",
+    "MLT - Generalist",
+    "MLT Blood Bank",
+    "Pathologist Assistant",
+    "Phlebotomy General"
+  ],
+  "Long Term Care": [
+    "View All Long Term Care",
+    "CNA",
+    "COVID Screener Medical Assistant",
+    "LPN",
+    "LTC RN",
+    "MDS Coordinator",
+    "Medical Assistant",
+    "Medication Aide"
+  ],
+  "Radiology": [
+    "View All Radiology",
+    "CT Tech",
+    "Diagnostic Radiology RN",
+    "Dosimetrist",
+    "Mammography Tech",
+    "Medical Physicist",
+    "MRI Tech",
+    "Nuclear Medicine Tech",
+    "Rad Tech",
+    "Radiation Therapist",
+    "Ultrasound Echo",
+    "Ultrasound Echo/Vascular",
+    "Ultrasound Gen/Vasc",
+    "Ultrasound General",
+    "Ultrasound High Risk",
+    "Ultrasound Vascular"
+  ],
+  "RN": [
+    "View All RN",
+    "Behavioral Health RN",
+    "Case Manager RN",
+    "Clinic LPN",
+    "COVID Screener RN",
+    "CVICU RN",
+    "CVOR RN",
+    "CVOR Tech",
+    "Dialysis",
+    "Dialysis Tech",
+    "Endo RN",
+    "ER RN",
+    "First Assist RN",
+    "First Assist Tech",
+    "House Supervisor",
+    "ICU RN",
+    "Infection Prevention RN",
+    "Infusion RN",
+    "L&D RN",
+    "LTAC",
+    "Med/Tele RN",
+    "Medical Surg RN",
+    "MotherBaby RN",
+    "Neuro RN",
+    "NICU RN",
+    "Nurse Educator",
+    "Nurse Manager",
+    "OB Tech",
+    "Oncology RN",
+    "Operating Room RN",
+    "Ortho RN",
+    "PACU RN",
+    "Peds ER RN",
+    "Peds OR RN",
+    "Peds RN",
+    "PICU RN",
+    "Postpartum RN",
+    "Pre/Post Op RN",
+    "Rehab RN",
+    "Stepdown RN",
+    "Sterile Processor",
+    "Surgical Tech",
+    "Telemetry RN",
+    "Vaccine Administrator RN"
+  ],
+  "Therapy": [
+    "View All Therapy",
+    "COTA",
+    "Occupational Therapist - OT",
+    "Physical Therapist - PT",
+    "PTA",
+    "Speech Language Pathologist - SLP"
+  ],
+  "closedJobs": {
+    "test": {
+      "id": "8b158f46-5d65-eb11-a607-281878b32642"
+    },
+    "stage": {
+      "id": "bcaf8981-e134-eb11-9fb4-0004ffd34590"
+    }
+  },
+  "openJobs": {
+    "test": {
+      "id": "3238a6b8-7e24-eb11-9fb4-000d3a91ae52"
+    },
+    "stage": {
+      "id": "3c763bd2-38dc-ea11-9b05-00155d2c59ac"
+    }
+  }
+}

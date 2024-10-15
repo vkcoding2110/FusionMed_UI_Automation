@@ -1,0 +1,34 @@
+﻿
+{
+	"Item": [
+		{
+			"ItemName": "Brocolli - 1 Kg",
+			"ItemPrice": "120"
+		},
+		{
+			"ItemName": "Cauliflower - 1 Kg",
+			"ItemPrice": "60"
+		},
+		{
+			"ItemName": "Cucumber - 1 Kg",
+			"ItemPrice": "48"
+		},
+		{
+			"ItemName": "Beetroot - 1 Kg",
+			"ItemPrice": "32"
+		}
+	],
+	"Items": [
+		{
+			"ItemName": "Brocolli - 1 Kg",
+			"ItemPrice": "120", 
+			"ItemQuantity" :  "10"
+		},
+		{
+			"ItemName": "Cauliflower - 1 Kg",
+			"ItemPrice": "60",
+			"ItemQuantity": "20"
+		}
+
+	]
+}

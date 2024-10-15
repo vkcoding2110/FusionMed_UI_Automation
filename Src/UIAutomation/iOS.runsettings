@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+
+  <!-- To run test in parallel -->
+  <MSTest>
+    <TestTimeout>1500000</TestTimeout> <!--15 minutes-->
+    <Parallelize>
+      <Workers>1</Workers>
+      <Scope>ClassLevel</Scope>
+    </Parallelize>
+  </MSTest>
+
+  <!-- Parameters used by tests at runtime -->
+  <TestRunParameters>
+    <Parameter name="browser" value="safari" />  <!--can be chrome,firefox,safari,None-->
+    <Parameter name="PlatformName" value="iOS" /> <!--can be android, iOS, web, AndroidApp, IosApp-->
+
+    <!--Device Capabilities-->
+    <Parameter name="DeviceName" value="iPhone 12 Pro Max" /> <!--can be iPhone 12 Pro Max,Pixel 4-->
+    <Parameter name="PlatformVeriosn" value="14.4" /> <!--For Android 11.0, For iOS 14.4-->
+    <Parameter name="AutomationName" value="XCUITest" />
+
+    <!-- can be stage, test -->
+    <Parameter name="env" value="test" />
+
+    <!--Core-->
+    <Parameter name="email" value="qaauto-compadmin@fusionmedstaff.com" />
+    <Parameter name="password" value="8xR^RXL~#LG9" />
+    <Parameter name="name" value="qaauto-compadmin" />
+    
+    <Parameter name="auditEmail" value="qaauto-compaudit@fusionmedstaff.com"/>
+    <Parameter name="auditPassword" value="!tTb_@fwwbz}"/>
+    <Parameter name="auditName" value="qaauto-compaudit" />
+
+    <Parameter name="specialistEmail" value="qaauto-compspecialist@fusionmedstaff.com"/>
+    <Parameter name="specialistPassword" value="bBM4ct_URxt:"/>
+    <Parameter name="specialistName" value="qaauto-compspecialist" />
+
+    <Parameter name="payrollEmail" value="qaauto-payroll@fusionmedstaff.com"/>
+    <Parameter name="payrollPassword" value="fGLLmKXP9c*h"/>
+    <Parameter name="payrollName" value="qaauto-comppayroll" />
+
+    <Parameter name="AccountReceivaleEmail" value="qaauto-accountsreceivable@fusionmedstaff.com"/>
+    <Parameter name="AccountReceivalePassword" value="mw6E!=*bzyns"/>
+    <Parameter name="AccountReceivaleName" value="qaauto-accountsreceivable" />
+
+    <!--TimeSheet-->
+    <Parameter name="tsEmail" value="joe@example.com"/>
+    <Parameter name="tsPassword" value="Password1!"/>
+    <Parameter name="tsName" value="Fusion"/>
+
+    <!--FMP-->
+    <Parameter name="FMPUserEmail" value="testtesting25@yopmail.com"/>
+    <Parameter name="FMPUserPassword" value="#Test@25%"/>
+    <Parameter name="FMPUserName" value="Test Testing"/>
+
+  </TestRunParameters>
+
+</RunSettings>

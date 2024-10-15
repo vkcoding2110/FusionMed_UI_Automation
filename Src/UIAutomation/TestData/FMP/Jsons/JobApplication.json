@@ -1,0 +1,50 @@
+﻿{
+	"Traveler": [
+		{
+			"CardTitle": "More transparency",
+			"CardDescription": "You choose the healthcare jobs you want with all the facts up front before you even apply.",
+			"ItemButtonHref": "Account/Register"
+		},
+		{
+			"CardTitle": "Better job search",
+			"CardDescription": "Your healthcare jobs are easier to search for, customize, and compare under one marketplace.",
+			"ItemButtonHref": "Account/Register"
+		},
+		{
+			"CardTitle": "Faster applications",
+			"CardDescription": "Keep everything at your fingertips with a personalized profile and quick apply to land your job faster.",
+			"ItemButtonHref": "Account/Register"
+		}
+	],
+	"Agency": [
+		{
+			"CardTitle": "Reduced market barriers",
+			"CardDescription": "An easier job search experience leads to more qualified healthcare professionals in the market.",
+			"ItemButtonHref": "agencies/"
+		},
+		{
+			"CardTitle": "Qualified applicants",
+			"CardDescription": "More healthcare professionals to choose from makes filling those roles easier than ever.",
+			"ItemButtonHref": "agencies/"
+		},
+		{
+			"CardTitle": "Build your rapport",
+			"CardDescription": "Happy Travelers create a better relationship between healthcare professionals and agencies.",
+			"ItemButtonHref": "agencies/"
+		}
+	],
+	"Recruiter": [
+		{
+			"CardTitle": "Ratings and reviews",
+			"CardDescription": "Rack up those ratings and build your skills to work with more qualified healthcare professionals."
+		},
+		{
+			"CardTitle": "Resources and tools",
+			"CardDescription": "Put your best recruiter foot forward with the right means to find the right healthcare professionals."
+		},
+		{
+			"CardTitle": "More Travelers",
+			"CardDescription": "A one stop shop job search for Travelers means more quality healthcare professionals for recruiters."
+		}
+	]
+}

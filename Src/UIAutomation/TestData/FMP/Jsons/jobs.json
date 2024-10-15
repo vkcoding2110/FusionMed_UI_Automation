@@ -1,0 +1,188 @@
+{
+  "Jobs": [
+    "View All Jobs",
+    "Cardiopulmonary & Respiratory",
+    "Laboratory",
+    "Nursing (RN, LPN, CNA)",
+    "Radiology & Imaging",
+    "Techs - Nursing/Cath Techs",
+    "Therapy",
+    "Other"
+  ],
+  "Cardiopulmonary & Respiratory": [
+    "View All Cardiopulmonary & Respiratory",
+    "Anesthesia Technician",
+    "CRT - Certified Respiratory Therapist",
+    "EEG Technician",
+    "EKG Technician",
+    "Perfusionist",
+    "Polysomnographer/Sleep Tech",
+    "RRT - Registered Respiratory Therapist"
+  ],
+  "Laboratory": [
+    "View All Laboratory",
+    "CLS",
+    "Cytotechnologist",
+    "HT/HTL",
+    "Lab Assistant",
+    "Lab Director/Manager",
+    "MLT",
+    "MT/MLS",
+    "Pathologist Assistant",
+    "Phlebotomist"
+  ],
+  "Nursing (RN, LPN, CNA)": [
+    "View All Nursing (RN, LPN, CNA)",
+	"AP - Antepartum RN",
+    "Behavioral Health RN",
+    "Case Manager RN",
+    "Cath Lab Director",
+    "Cath Lab Manager",
+    "Cath Lab RN",
+    "CCU RN",
+    "Clinic LPN",
+    "Clinic RN",
+    "CNA",
+    "Corrections LPN",
+    "Corrections RN",
+    "Covid Screener LPN",
+    "Covid Screener Medical Assistant",
+    "Covid Screener RN",
+    "Critical Access RN",
+    "CVICU RN",
+    "CVOR RN",
+    "Diagnostic Radiology RN",
+    "Dialysis RN",
+    "DON - Director of Nursing",
+    "Endo RN",
+    "EP RN",
+    "ER RN",
+    "First Assist RN",
+    "Home Health Case Manager",
+    "Home Health Clinical Manager",
+    "Home Health LPN",
+    "Home Health RN",
+    "Home Infusion RN",
+    "Hospice LPN",
+    "Hospice RN",
+    "House Supervisor RN",
+    "ICU RN",
+    "Infection Prevention RN",
+    "Infusion RN",
+    "IR RN",
+    "IV Therapy RN",
+    "L&D RN",
+    "LPN",
+    "LTAC RN",
+    "LTC LPN",
+    "LTC RN",
+    "MDS Coordinator",
+    "Med/Surg RN",
+    "Med/Tele RN",
+    "Medical Assistant",
+    "Medication Aide",
+    "Motherbaby RN",
+    "Neuro RN",
+    "NICU RN",
+    "Nurse Educator",
+    "Nurse Manager",
+    "Nursery RN",
+    "Observation RN",
+    "Oncology RN",
+    "OR RN",
+    "Ortho RN",
+    "PACU RN",
+    "PCU - Stepdown RN",
+    "Peds ER RN",
+    "Peds OR RN",
+    "Peds RN",
+    "PICU RN",
+    "PP - Postpartum RN",
+    "Pre/Post RN",
+    "Rehab RN",
+    "Supervisor RN",
+    "TeleHealth RN",
+    "Telemetry RN",
+    "Transplant Coordinator RN",
+    "Vaccine Administrator LPN",
+    "Vaccine Administrator RN",
+    "Wound Care RN"
+  ],
+  "Radiology & Imaging": [
+    "View All Radiology & Imaging",
+	"CT Tech",
+    "Dosimetrist",
+    "Mammo Tech",
+    "Medical Physicist",
+    "MRI Tech",
+    "Nuclear Medicine Tech",
+    "Rad Tech",
+    "Radiation Oncology",
+    "Radiation Therapist",
+    "Ultrasound",
+    "Ultrasound Echo",
+    "Ultrasound Echo/Vascular",
+    "Ultrasound Gen/Vascular",
+    "Ultrasound High Risk",
+    "Ultrasound Vascular"
+  ],
+  "Techs - Nursing/Cath Techs": [
+    "View All Techs - Nursing/Cath Techs",
+	"Cath Lab Tech",
+    "CST - Surg Tech",
+    "CVOR Tech",
+    "Dialysis Tech",
+    "Endo Tech",
+    "EP Tech",
+    "First Assist Tech",
+    "IR Tech",
+    "OB Tech",
+    "SPT - Sterile Processor"
+  ],
+  "Therapy": [
+	  "View All Therapy",
+	  "COTA",
+	  "OT",
+	  "PT",
+	  "PT Tech",
+	  "PTA",
+	  "SLP"
+  ],
+  "Other": [
+    "View All Other",
+    "Dietitian",
+    "Social Worker"
+  ],
+  "openJobs": {
+    "test": {
+      "url": "8e0bdee4-cc78-ec11-94f6-000d3a9144a1/"
+    },
+    "stage": {
+      "url": "eaf07bd8-bd78-ec11-94f6-0003ffd1c7d6/"
+    }
+  },
+  "closeJobs": {
+    "test": {
+      "url": "nursing/telemetry-rn/8b158f46-5d65-eb11-a607-281878b32642/"
+    },
+    "stage": {
+      "url": "nursing/icu-rn/e36d735a-e860-eb11-a607-0004ffd344dd/"
+    }
+  },
+  "multipleJobs": {
+    "test": {
+      "url": "9b03a2b2-7e24-eb11-9fb4-000d3a91ae52/"
+    },
+    "stage": {
+      "url": "3d6475d2-bd78-ec11-94f6-0003ffd1c7d6/"
+    }
+    },
+  "housingNearbyJobs": {
+    "test": {
+      "url": "nursing/telemetry-rn/5df4237f-c53c-ec11-9820-e42aac79ca32/"
+    },
+    "stage": {
+      "url": "nursing/clinic-rn/1defba6e-da3a-ec11-981f-e42aaca3b2d7/"
+    }
+  }
+}

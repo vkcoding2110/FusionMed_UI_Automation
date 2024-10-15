@@ -1,0 +1,44 @@
+{
+	"jobs": [
+		{
+			"jobId": "404763",
+			"payPackageDisplayed": "true",
+			"agencies": [ "Fusion Medical Staffing", "Partner 1 Agency" ]
+		},
+		{		
+			"jobId": "404448",
+			"payPackageDisplayed": "false",
+			"agencies": [ "Fusion Medical Staffing", "Partner 1 Agency" ]
+		},
+		{
+			"jobId": "404795",
+			"payPackageDisplayed": "true",
+			"agencies": [ "Fusion Medical Staffing", "Partner 2 Agency" ]
+		},
+		{
+			"jobId": "404761",
+			"payPackageDisplayed": "false",
+			"agencies": [ "Fusion Medical Staffing", "Partner 2 Agency" ]
+		},
+		{
+			"jobId": "404705",
+			"payPackageDisplayed": "true",
+			"agencies": [ "Fusion Medical Staffing", "Partner 1 Agency", "Partner 2 Agency" ]
+		},
+		{
+			"jobId": "403782",
+			"payPackageDisplayed": "false",
+			"agencies": [ "Fusion Medical Staffing", "Partner 1 Agency", "Partner 2 Agency" ]
+		},
+		{
+			"jobId": "404032",
+			"payPackageDisplayed": "true",
+			"agencies": [ "Fusion Medical Staffing", "Fusion Medical Staffing", "Partner 1 Agency", "Partner 2 Agency" ]
+		},
+		{
+			"jobId": "403588",
+			"payPackageDisplayed": "false",
+			"agencies": [ "Fusion Medical Staffing", "Fusion Medical Staffing", "Partner 1 Agency", "Partner 2 Agency" ]
+		}
+	]
+}
